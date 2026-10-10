@@ -1,0 +1,6 @@
+{
+  "name": "Chronos AI Smartwatch",
+  "description": "Sleek, luxury hybrid smartwatch landing page featuring real-time AI voice translation, a sub-glass retina dial, and an exclusive waitlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
